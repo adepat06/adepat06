@@ -6,13 +6,18 @@
   <img src="./badges/gssoc-badge-role_contributor.png" width="120">
 </p>
 
-### 💻 About Me
-- Open Source Contributor
-- GSSoC 2026 Participant
-- Java Developer
-- Learning Full-Stack Development
+## 💻 About Me
 
-### 🌱 Currently Learning
-- Java
+- 🎓 Computer Science Student
+- 🌟 GSSoC 2026 Contributor
+- ☕ Java Developer
+- 🤖 Exploring Data Science & AI/ML
+- 🚀 Passionate about Open Source
+
+## 🌱 Currently Learning
+
+- Python for Data Science
+- Machine Learning Fundamentals
+- Data Analysis
 - Git & GitHub
 - Open Source Contributions
