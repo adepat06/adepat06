@@ -2,16 +2,30 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Adelin%20Patricia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend-Focused%20Full-Stack%20Developer&descSize=18&descAlignY=62" width="100%"/>
 
-<br/>
-
 <a href="https://www.linkedin.com/in/adelin-patricia/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=8B7FD6&center=true&vCenter=true&width=460&lines=IT+Student+%C2%B7+Currently+seeking+an+internship;Learning+Full-Stack+%E2%80%94+going+deeper+into+Backend;20+PRs+merged+through+GSSoC+2026" alt="Typing SVG"/>
 </a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎯_Open_to-Internships-302b63?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/⚙️_Focus-Backend-302b63?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/🌱_Always-Learning-302b63?style=for-the-badge&labelColor=0f0c29"/>
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelin-patricia/)
 [![Email](https://img.shields.io/badge/Email-302b63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adelinpatricia06@gmail.com)
+
+<br/>
+
+<sub>
+<a href="#-about">About</a> &nbsp;•&nbsp;
+<a href="#-open-source--gssoc-2026">GSSoC</a> &nbsp;•&nbsp;
+<a href="#️-tech-stack">Tech Stack</a> &nbsp;•&nbsp;
+<a href="#-projects">Projects</a> &nbsp;•&nbsp;
+<a href="#-github-activity">GitHub Activity</a>
+</sub>
 
 </div>
 
@@ -70,23 +84,23 @@
 <table>
 <tr>
 <td valign="top" width="16%"><strong>Languages</strong></td>
-<td><img src="https://skillicons.dev/icons?i=java,c,cpp,js" /></td>
+<td><img src="https://skillicons.dev/icons?i=java,c,cpp,js&theme=dark" /></td>
 </tr>
 <tr>
 <td valign="top"><strong>Frontend</strong></td>
-<td><img src="https://skillicons.dev/icons?i=html,css" /></td>
+<td><img src="https://skillicons.dev/icons?i=html,css&theme=dark" /></td>
 </tr>
 <tr>
 <td valign="top"><strong>Backend</strong></td>
-<td><img src="https://skillicons.dev/icons?i=django" /></td>
+<td><img src="https://skillicons.dev/icons?i=django&theme=dark" /></td>
 </tr>
 <tr>
 <td valign="top"><strong>Database</strong></td>
-<td><img src="https://skillicons.dev/icons?i=mysql" /></td>
+<td><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></td>
 </tr>
 <tr>
 <td valign="top"><strong>Tools / Platforms</strong></td>
-<td><img src="https://skillicons.dev/icons?i=notion" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=notion&theme=dark" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="48"/></td>
 </tr>
 </table>
 
@@ -106,22 +120,32 @@
 <tr>
 <td width="50%" valign="top">
 
-**🔹 Project name**
+<details open>
+<summary><b>🔹 Project name</b></summary>
+<br/>
+
 *One or two lines on what it does and why you built it.*
 
 `Tech` `Tech` `Tech`
 
 [🔗 Repo](#) &nbsp;·&nbsp; [🌐 Live Demo](#)
+
+</details>
 
 </td>
 <td width="50%" valign="top">
 
-**🔹 Project name**
+<details open>
+<summary><b>🔹 Project name</b></summary>
+<br/>
+
 *One or two lines on what it does and why you built it.*
 
 `Tech` `Tech` `Tech`
 
 [🔗 Repo](#) &nbsp;·&nbsp; [🌐 Live Demo](#)
+
+</details>
 
 </td>
 </tr>
@@ -134,6 +158,12 @@
 <br/>
 
 ## 📊 GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adepat06&theme=react-dark&bg_color=0d0221&color=8B7FD6&line=8B7FD6&point=ffffff&hide_border=true&area=true" width="100%"/>
+</div>
+
+<br/>
 
 <table>
 <tr>
