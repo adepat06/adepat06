@@ -1,40 +1,145 @@
-# 💫 About Me:
-🎓 IT student exploring Full-Stack Development<br>⚙️ Currently diving deeper into Backend Development<br>🛠️ Interested in building real-world & real-time projects<br>🌱 Always learning, improving, and building<br>🤝 20 PRs merged through GSSoC<br>🎯 Currently looking for an internship opportunity<br><br>Hard-working • Sincere • Big Dreamer
+<div align="center">
 
+# Adelin Patricia
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelin-patricia/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adelinpatricia06@gmail.com) 
-## 🏅 GSSoC 2026 Badges
+### Backend-Focused Full-Stack Developer <br/><sub>IT Student · Building real, real-time systems</sub>
 
-<p align="center">
-  <img src="./badges/gssoc-badge-rising_star.png" width="110">
-  <img src="./badges/gssoc-badge-bounty_hunter.png" width="110">
-  <img src="./badges/gssoc-badge-discord_verified.png" width="110">
-  <img src="./badges/gssoc-badge-first_steps.png" width="110">
-</p>
+**Currently seeking an internship opportunity**
 
-<p align="center">
-  <img src="./badges/gssoc-badge-point_scorer.png" width="110">
-  <img src="./badges/gssoc-badge-profile_complete.png" width="110">
-  <img src="./badges/gssoc-badge-role_contributor.png" width="110">
-  <img src="./badges/gssoc-badge-bounty_master (1).png" width="110">
-</p>
+<br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelin-patricia/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adelinpatricia06@gmail.com)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=adepat06&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=adepat06&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=adepat06&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adepat06&theme=date_night&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adepat06&limit=5&theme=date_night&combine_all_yearly_contributions=true)
+## About
 
----
-[![](https://komarev.com/ghpvc/?username=adepat06&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🎓 IT student, currently deepening my focus on **Backend Development** within a Full-Stack path
+- 🛠️ Interested in building real-world, real-time projects
+- 🌱 Learning in public — every merged PR is part of the process, not the finish line
+- 🎯 Looking for an internship where I can contribute and keep growing
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<sub>Hard-working · Sincere · Big Dreamer</sub>
+
+<br/>
+
+## Open Source — GSSoC 2026
+
+<div align="center">
+
+### 🎖️ 20 PRs Merged
+
+<img src="https://img.shields.io/badge/GSSoC%202026-20%20PRs%20Merged-blueviolet?style=for-the-badge" alt="20 PRs merged"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center"><img src="./badges/gssoc-badge-rising_star.png" width="100"><br/><sub>Rising Star</sub></td>
+<td align="center"><img src="./badges/gssoc-badge-bounty_hunter.png" width="100"><br/><sub>Bounty Hunter</sub></td>
+<td align="center"><img src="./badges/gssoc-badge-discord_verified.png" width="100"><br/><sub>Discord Verified</sub></td>
+<td align="center"><img src="./badges/gssoc-badge-first_steps.png" width="100"><br/><sub>First Steps</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="./badges/gssoc-badge-point_scorer.png" width="100"><br/><sub>Point Scorer</sub></td>
+<td align="center"><img src="./badges/gssoc-badge-profile_complete.png" width="100"><br/><sub>Profile Complete</sub></td>
+<td align="center"><img src="./badges/gssoc-badge-role_contributor.png" width="100"><br/><sub>Role Contributor</sub></td>
+<td align="center"><img src="./badges/gssoc-badge-bounty_master.png" width="100"><br/><sub>Bounty Master</sub></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="20%"><strong>Languages</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Frontend</strong></td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Backend</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Database</strong></td>
+<td>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Tools / Platforms</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+> 📍 **Right now:** learning Full-Stack Development with a growing focus on Backend — going deeper into how systems are built, not just how they look.
+
+<br/>
+
+## Projects
+
+<sub>Placeholder — replace each row below as projects are ready to showcase.</sub>
+
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| *Project name* | *One or two lines on what it does and why you built it* | `Tech` `Tech` `Tech` | [Repo](#) · [Live Demo](#) |
+| *Project name* | *One or two lines on what it does and why you built it* | `Tech` `Tech` `Tech` | [Repo](#) · [Live Demo](#) |
+
+<br/>
+
+## GitHub Activity
+
+<table>
+<tr>
+<td><img src="https://github-readme-stats.shion.dev/api?username=adepat06&theme=date_night&hide_border=true&include_all_commits=false&count_private=false" width="100%"/></td>
+<td><img src="https://streak-stats.demolab.com/?user=adepat06&theme=date_night&hide_border=true" width="100%"/></td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=adepat06&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="55%"/>
+</div>
+
+<details>
+<summary><strong>Trophies & Top Contributed Repo</strong></summary>
+
+<br/>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=adepat06&theme=date_night&no-frame=true&no-bg=true&margin-w=4)
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=adepat06&limit=5&theme=date_night&combine_all_yearly_contributions=true)
+
+</div>
+
+</details>
+
+<br/>
+
+<div align="center">
+<sub><a href="https://visitcount.itsvg.in">Profile views</a> <img src="https://komarev.com/ghpvc/?username=adepat06&icon=0&color=0" height="18"/></sub>
+</div>
