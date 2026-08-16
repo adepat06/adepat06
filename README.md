@@ -1,21 +1,25 @@
 <div align="center">
 
-# Adelin Patricia
-
-### Backend-Focused Full-Stack Developer <br/><sub>IT Student · Building real, real-time systems</sub>
-
-**Currently seeking an internship opportunity**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Adelin%20Patricia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend-Focused%20Full-Stack%20Developer&descSize=18&descAlignY=62" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelin-patricia/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adelinpatricia06@gmail.com)
+<a href="https://www.linkedin.com/in/adelin-patricia/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=8B7FD6&center=true&vCenter=true&width=460&lines=IT+Student+%C2%B7+Currently+seeking+an+internship;Learning+Full-Stack+%E2%80%94+going+deeper+into+Backend;20+PRs+merged+through+GSSoC+2026" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelin-patricia/)
+[![Email](https://img.shields.io/badge/Email-302b63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adelinpatricia06@gmail.com)
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header" width="100%"/>
+
 <br/>
 
-## About
+## 🧭 About
 
 - 🎓 IT student, currently deepening my focus on **Backend Development** within a Full-Stack path
 - 🛠️ Interested in building real-world, real-time projects
@@ -26,28 +30,30 @@
 
 <br/>
 
-## Open Source — GSSoC 2026
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=2&section=header" width="100%"/>
+
+<br/>
+
+## 🏆 Open Source — GSSoC 2026
 
 <div align="center">
 
-### 🎖️ 20 PRs Merged
-
-<img src="https://img.shields.io/badge/GSSoC%202026-20%20PRs%20Merged-blueviolet?style=for-the-badge" alt="20 PRs merged"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B7FD6,100:302b63&height=70&section=header&text=20%20PRs%20Merged&fontSize=28&fontColor=ffffff&fontAlignY=55&width=1000" width="60%"/>
 
 <br/><br/>
 
 <table>
 <tr>
-<td align="center"><img src="./badges/gssoc-badge-rising_star.png" width="100"><br/><sub>Rising Star</sub></td>
-<td align="center"><img src="./badges/gssoc-badge-bounty_hunter.png" width="100"><br/><sub>Bounty Hunter</sub></td>
-<td align="center"><img src="./badges/gssoc-badge-discord_verified.png" width="100"><br/><sub>Discord Verified</sub></td>
-<td align="center"><img src="./badges/gssoc-badge-first_steps.png" width="100"><br/><sub>First Steps</sub></td>
+<td align="center" width="140"><img src="./badges/gssoc-badge-rising_star.png" width="88"><br/><sub><b>Rising Star</b></sub></td>
+<td align="center" width="140"><img src="./badges/gssoc-badge-bounty_hunter.png" width="88"><br/><sub><b>Bounty Hunter</b></sub></td>
+<td align="center" width="140"><img src="./badges/gssoc-badge-discord_verified.png" width="88"><br/><sub><b>Discord Verified</b></sub></td>
+<td align="center" width="140"><img src="./badges/gssoc-badge-first_steps.png" width="88"><br/><sub><b>First Steps</b></sub></td>
 </tr>
 <tr>
-<td align="center"><img src="./badges/gssoc-badge-point_scorer.png" width="100"><br/><sub>Point Scorer</sub></td>
-<td align="center"><img src="./badges/gssoc-badge-profile_complete.png" width="100"><br/><sub>Profile Complete</sub></td>
-<td align="center"><img src="./badges/gssoc-badge-role_contributor.png" width="100"><br/><sub>Role Contributor</sub></td>
-<td align="center"><img src="./badges/gssoc-badge-bounty_master.png" width="100"><br/><sub>Bounty Master</sub></td>
+<td align="center"><img src="./badges/gssoc-badge-point_scorer.png" width="88"><br/><sub><b>Point Scorer</b></sub></td>
+<td align="center"><img src="./badges/gssoc-badge-profile_complete.png" width="88"><br/><sub><b>Profile Complete</b></sub></td>
+<td align="center"><img src="./badges/gssoc-badge-role_contributor.png" width="88"><br/><sub><b>Role Contributor</b></sub></td>
+<td align="center"><img src="./badges/gssoc-badge-bounty_master.png" width="88"><br/><sub><b>Bounty Master</b></sub></td>
 </tr>
 </table>
 
@@ -55,43 +61,32 @@
 
 <br/>
 
-## Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=2&section=header" width="100%"/>
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <table>
 <tr>
-<td valign="top" width="20%"><strong>Languages</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-</td>
+<td valign="top" width="16%"><strong>Languages</strong></td>
+<td><img src="https://skillicons.dev/icons?i=java,c,cpp,js" /></td>
 </tr>
 <tr>
 <td valign="top"><strong>Frontend</strong></td>
-<td>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</td>
+<td><img src="https://skillicons.dev/icons?i=html,css" /></td>
 </tr>
 <tr>
 <td valign="top"><strong>Backend</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-</td>
+<td><img src="https://skillicons.dev/icons?i=django" /></td>
 </tr>
 <tr>
 <td valign="top"><strong>Database</strong></td>
-<td>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</td>
+<td><img src="https://skillicons.dev/icons?i=mysql" /></td>
 </tr>
 <tr>
 <td valign="top"><strong>Tools / Platforms</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-</td>
+<td><img src="https://skillicons.dev/icons?i=notion" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="48"/></td>
 </tr>
 </table>
 
@@ -99,32 +94,62 @@
 
 <br/>
 
-## Projects
-
-<sub>Placeholder — replace each row below as projects are ready to showcase.</sub>
-
-| Project | Description | Tech Stack | Links |
-|---|---|---|---|
-| *Project name* | *One or two lines on what it does and why you built it* | `Tech` `Tech` `Tech` | [Repo](#) · [Live Demo](#) |
-| *Project name* | *One or two lines on what it does and why you built it* | `Tech` `Tech` `Tech` | [Repo](#) · [Live Demo](#) |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=2&section=header" width="100%"/>
 
 <br/>
 
-## GitHub Activity
+## 🚀 Projects
+
+<sub>Placeholder — replace each card below as projects are ready to showcase.</sub>
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.shion.dev/api?username=adepat06&theme=date_night&hide_border=true&include_all_commits=false&count_private=false" width="100%"/></td>
-<td><img src="https://streak-stats.demolab.com/?user=adepat06&theme=date_night&hide_border=true" width="100%"/></td>
+<td width="50%" valign="top">
+
+**🔹 Project name**
+*One or two lines on what it does and why you built it.*
+
+`Tech` `Tech` `Tech`
+
+[🔗 Repo](#) &nbsp;·&nbsp; [🌐 Live Demo](#)
+
+</td>
+<td width="50%" valign="top">
+
+**🔹 Project name**
+*One or two lines on what it does and why you built it.*
+
+`Tech` `Tech` `Tech`
+
+[🔗 Repo](#) &nbsp;·&nbsp; [🌐 Live Demo](#)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=2&section=header" width="100%"/>
+
+<br/>
+
+## 📊 GitHub Activity
+
+<table>
+<tr>
+<td width="50%"><img src="https://github-readme-stats.shion.dev/api?username=adepat06&theme=date_night&hide_border=true&include_all_commits=false&count_private=false" width="100%"/></td>
+<td width="50%"><img src="https://streak-stats.demolab.com/?user=adepat06&theme=date_night&hide_border=true" width="100%"/></td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=adepat06&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="55%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=adepat06&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="50%"/>
 </div>
 
+<br/>
+
 <details>
-<summary><strong>Trophies & Top Contributed Repo</strong></summary>
+<summary><strong>🏅 Trophies & Top Contributed Repo</strong></summary>
 
 <br/>
 
@@ -143,3 +168,5 @@
 <div align="center">
 <sub><a href="https://visitcount.itsvg.in">Profile views</a> <img src="https://komarev.com/ghpvc/?username=adepat06&icon=0&color=0" height="18"/></sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=100&section=footer" width="100%"/>
