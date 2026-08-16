@@ -8,7 +8,7 @@
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:07070d,45:111025,100:4c1d95&height=220&section=header&text=ADELIN%20PATRICIA&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=BACKEND-FOCUSED%20FULL-STACK%20DEVELOPER&descAlignY=64&descSize=16&animation=fadeIn"
   width="100%"
-  alt="Adelin Patricia — Backend-Focused Full-Stack Developer"
+  alt="Adelin Patricia A — Backend-Focused Full-Stack Developer"
 />
 
 <table width="100%">
