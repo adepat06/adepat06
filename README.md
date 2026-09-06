@@ -353,43 +353,9 @@ I enjoy building **real-world and practical projects** that strengthen my full-s
 
 ### `BUILD / 001`
 
-## 🌱 Build in Public
-
-A full-stack social platform where developers can share their learning journey, post progress updates, and interact with the community through likes and comments.
-
-**STACK**
-
-`Python` · `Django` · `Bootstrap` · `SQLite`
-
-**HIGHLIGHTS**
-
-* User authentication
-* Create & delete posts
-* Like & unlike posts
-* Comments
-* User profiles
-* Responsive UI
-* Deployed on Render
-
-<br/>
-
-<a href="https://github.com/adepat06/buildinpublic">
-<img src="https://img.shields.io/badge/SOURCE-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
-</a>
-
-<a href="https://buildinpublic-jfn0.onrender.com">
-<img src="https://img.shields.io/badge/LIVE-DEMO-4c1d95?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### `BUILD / 002`
-
 ## 🛍 Smart Store
 
-A full-stack e-commerce application where users can browse products, manage their shopping cart, complete checkout, and view their order history.
+A full-stack e-commerce application where users can browse products, view product details, manage their shopping cart, complete checkout, and view their order history.
 
 **STACK**
 
@@ -414,6 +380,41 @@ A full-stack e-commerce application where users can browse products, manage thei
 </a>
 
 <a href="https://smart-store-pra9.onrender.com">
+<img src="https://img.shields.io/badge/LIVE-DEMO-4c1d95?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `BUILD / 002`
+
+## 🌱 Build in Public
+
+A full-stack social platform where developers can share their learning journey, post progress updates, and interact with the community through likes and comments.
+
+**STACK**
+
+`Python` · `Django` · `Bootstrap` · `SQLite`
+
+**HIGHLIGHTS**
+
+* User authentication
+* Create & delete posts
+* Like & unlike posts
+* Comments
+* User profiles
+* Responsive UI
+* CRUD operations
+* Deployed on Render
+
+<br/>
+
+<a href="https://github.com/adepat06/buildinpublic">
+<img src="https://img.shields.io/badge/SOURCE-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+</a>
+
+<a href="https://buildinpublic-jfn0.onrender.com">
 <img src="https://img.shields.io/badge/LIVE-DEMO-4c1d95?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/>
 </a>
 
