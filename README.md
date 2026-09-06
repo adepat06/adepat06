@@ -336,16 +336,15 @@ with a growing focus on **Backend Development**
 <br/>
 
 ---
-
 <a name="04-builds"></a>
 
 ## `04 / BUILD ARCHIVE`
 
 ### Projects
 
-I enjoy building **real-world and practical projects**.
+I enjoy building **real-world and practical projects** that strengthen my full-stack and backend development skills.
 
-The project showcase will live here as projects become ready.
+<br/>
 
 <table width="100%">
 <tr>
@@ -354,21 +353,33 @@ The project showcase will live here as projects become ready.
 
 ### `BUILD / 001`
 
-**PROJECT SLOT**
+## 🌱 Build in Public
 
-`AVAILABLE FOR PROJECT`
+A full-stack social platform where developers can share their learning journey, post progress updates, and interact with the community through likes and comments.
 
-A future project showcase will include:
+**STACK**
 
-* What it solves
-* How it works
-* Technology used
-* Repository
-* Live demo
+`Python` · `Django` · `Bootstrap` · `SQLite`
+
+**HIGHLIGHTS**
+
+* User authentication
+* Create & delete posts
+* Like & unlike posts
+* Comments
+* User profiles
+* Responsive UI
+* Deployed on Render
 
 <br/>
 
-`SOURCE` · `LIVE`
+<a href="https://github.com/adepat06/buildinpublic">
+<img src="https://img.shields.io/badge/SOURCE-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+</a>
+
+<a href="https://buildinpublic-jfn0.onrender.com">
+<img src="https://img.shields.io/badge/LIVE-DEMO-4c1d95?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/>
+</a>
 
 </td>
 
@@ -376,21 +387,35 @@ A future project showcase will include:
 
 ### `BUILD / 002`
 
-**PROJECT SLOT**
+## 🛍 Smart Store
 
-`AVAILABLE FOR PROJECT`
+A full-stack e-commerce application where users can browse products, manage their shopping cart, complete checkout, and view their order history.
 
-A future project showcase will include:
+**STACK**
 
-* What it solves
-* How it works
-* Technology used
-* Repository
-* Live demo
+`Python` · `Django` · `Bootstrap` · `SQLite`
+
+**HIGHLIGHTS**
+
+* User authentication
+* Product catalog
+* Product detail pages
+* Shopping cart
+* Quantity management
+* Checkout workflow
+* Order history
+* Responsive UI
+* Deployed on Render
 
 <br/>
 
-`SOURCE` · `LIVE`
+<a href="https://github.com/adepat06/smart-store">
+<img src="https://img.shields.io/badge/SOURCE-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+</a>
+
+<a href="https://smart-store-pra9.onrender.com">
+<img src="https://img.shields.io/badge/LIVE-DEMO-4c1d95?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/>
+</a>
 
 </td>
 
@@ -400,7 +425,7 @@ A future project showcase will include:
 <br/>
 
 <sub>
-Projects will replace these slots as I build and ship more real-world applications.
+Two practical full-stack applications built with Django, focused on real-world functionality, backend logic, database relationships, and deployment.
 </sub>
 
 <br/>
